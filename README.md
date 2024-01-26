@@ -7,3 +7,7 @@
    git branch <new branch>
 ## to commit
    git commit -m "Message"
+## To Pull
+   git pull origin <branchname>
+## To know status
+   git status  
